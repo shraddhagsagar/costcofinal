@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="test.com.CostcoTest" duration-ms="504482" started-at="2019-03-23T03:23:51Z" finished-at="2019-03-23T03:32:15Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="504482" started-at="2019-03-23T03:23:51Z" finished-at="2019-03-23T03:32:15Z">
+      <class name="test.com.CostcoTest">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:test.com.CostcoTest@1cd072a9]" name="setUpClass" is-config="true" duration-ms="13" started-at="2019-03-22T22:23:51Z" finished-at="2019-03-22T22:23:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:test.com.CostcoTest@1cd072a9]" name="setUpMethod" is-config="true" duration-ms="5923" started-at="2019-03-22T22:23:51Z" finished-at="2019-03-22T22:23:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="testBrandTestCase7()[pri:0, instance:test.com.CostcoTest@1cd072a9]" name="testBrandTestCase7" duration-ms="84938" started-at="2019-03-22T22:23:57Z" finished-at="2019-03-22T22:25:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBrandTestCase7 -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:test.com.CostcoTest@1cd072a9]" name="tearDownMethod" is-config="true" duration-ms="1" started-at="2019-03-22T22:25:22Z" finished-at="2019-03-22T22:25:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:test.com.CostcoTest@1cd072a9]" name="setUpMethod" is-config="true" duration-ms="3583" started-at="2019-03-22T22:25:22Z" finished-at="2019-03-22T22:25:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="testCostco7()[pri:0, instance:test.com.CostcoTest@1cd072a9]" name="testCostco7" duration-ms="47168" started-at="2019-03-22T22:25:25Z" finished-at="2019-03-22T22:26:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCostco7 -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:test.com.CostcoTest@1cd072a9]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2019-03-22T22:26:12Z" finished-at="2019-03-22T22:26:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:test.com.CostcoTest@1cd072a9]" name="setUpMethod" is-config="true" duration-ms="3694" started-at="2019-03-22T22:26:12Z" finished-at="2019-03-22T22:26:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="testCostcoLogin1()[pri:0, instance:test.com.CostcoTest@1cd072a9]" name="testCostcoLogin1" duration-ms="59095" started-at="2019-03-22T22:26:16Z" finished-at="2019-03-22T22:27:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCostcoLogin1 -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:test.com.CostcoTest@1cd072a9]" name="tearDownMethod" is-config="true" duration-ms="1" started-at="2019-03-22T22:27:15Z" finished-at="2019-03-22T22:27:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:test.com.CostcoTest@1cd072a9]" name="setUpMethod" is-config="true" duration-ms="3569" started-at="2019-03-22T22:27:15Z" finished-at="2019-03-22T22:27:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="testCostcoTest2()[pri:0, instance:test.com.CostcoTest@1cd072a9]" name="testCostcoTest2" duration-ms="21812" started-at="2019-03-22T22:27:19Z" finished-at="2019-03-22T22:27:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCostcoTest2 -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:test.com.CostcoTest@1cd072a9]" name="tearDownMethod" is-config="true" duration-ms="1" started-at="2019-03-22T22:27:41Z" finished-at="2019-03-22T22:27:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:test.com.CostcoTest@1cd072a9]" name="setUpMethod" is-config="true" duration-ms="4836" started-at="2019-03-22T22:27:41Z" finished-at="2019-03-22T22:27:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="testCostcoTest3()[pri:0, instance:test.com.CostcoTest@1cd072a9]" name="testCostcoTest3" duration-ms="20065" started-at="2019-03-22T22:27:45Z" finished-at="2019-03-22T22:28:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCostcoTest3 -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:test.com.CostcoTest@1cd072a9]" name="tearDownMethod" is-config="true" duration-ms="1" started-at="2019-03-22T22:28:05Z" finished-at="2019-03-22T22:28:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:test.com.CostcoTest@1cd072a9]" name="setUpMethod" is-config="true" duration-ms="3719" started-at="2019-03-22T22:28:05Z" finished-at="2019-03-22T22:28:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="testCostcoTest4()[pri:0, instance:test.com.CostcoTest@1cd072a9]" name="testCostcoTest4" duration-ms="66730" started-at="2019-03-22T22:28:09Z" finished-at="2019-03-22T22:29:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCostcoTest4 -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:test.com.CostcoTest@1cd072a9]" name="tearDownMethod" is-config="true" duration-ms="1" started-at="2019-03-22T22:29:16Z" finished-at="2019-03-22T22:29:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:test.com.CostcoTest@1cd072a9]" name="setUpMethod" is-config="true" duration-ms="3567" started-at="2019-03-22T22:29:16Z" finished-at="2019-03-22T22:29:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="testCostcoTest5()[pri:0, instance:test.com.CostcoTest@1cd072a9]" name="testCostcoTest5" duration-ms="46724" started-at="2019-03-22T22:29:19Z" finished-at="2019-03-22T22:30:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCostcoTest5 -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:test.com.CostcoTest@1cd072a9]" name="tearDownMethod" is-config="true" duration-ms="2" started-at="2019-03-22T22:30:06Z" finished-at="2019-03-22T22:30:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:test.com.CostcoTest@1cd072a9]" name="setUpMethod" is-config="true" duration-ms="3594" started-at="2019-03-22T22:30:06Z" finished-at="2019-03-22T22:30:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="testCostcoTest6()[pri:0, instance:test.com.CostcoTest@1cd072a9]" name="testCostcoTest6" duration-ms="9094" started-at="2019-03-22T22:30:10Z" finished-at="2019-03-22T22:30:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCostcoTest6 -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:test.com.CostcoTest@1cd072a9]" name="tearDownMethod" is-config="true" duration-ms="1" started-at="2019-03-22T22:30:19Z" finished-at="2019-03-22T22:30:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:test.com.CostcoTest@1cd072a9]" name="setUpMethod" is-config="true" duration-ms="3555" started-at="2019-03-22T22:30:19Z" finished-at="2019-03-22T22:30:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="testCostcoTest9()[pri:0, instance:test.com.CostcoTest@1cd072a9]" name="testCostcoTest9" duration-ms="112780" started-at="2019-03-22T22:30:22Z" finished-at="2019-03-22T22:32:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCostcoTest9 -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:test.com.CostcoTest@1cd072a9]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2019-03-22T22:32:15Z" finished-at="2019-03-22T22:32:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:test.com.CostcoTest@1cd072a9]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2019-03-22T22:32:15Z" finished-at="2019-03-22T22:32:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+      </class> <!-- test.com.CostcoTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- test.com.CostcoTest -->
+</testng-results>
